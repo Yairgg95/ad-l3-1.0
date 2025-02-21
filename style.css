@@ -3,3 +3,21 @@ html {
     width: 100%;
   }
   
+  body{
+    background-color: grey
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.verde{
+    color: green;
+}
+
+.azul{
+    color: blue;
+}
+
+.rojo{
+    color: red;
+}
